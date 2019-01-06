@@ -1,0 +1,7 @@
+npm-*
+.idea
+.tmp
+.DS_Store
+node_modules
+yarn.lock
+.awcache
